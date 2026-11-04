@@ -147,3 +147,7 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+
+# Local credential store used during development (KAFEN_MCP_CONFIG_DIR)
+.kafen/
